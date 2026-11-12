@@ -9,3 +9,5 @@ GetIP.exe — just download it and run it in a console (Command Prompt / PowerSh
 Pass the domain name as a positional argument, without any flags:
 
 GetIP.exe google.com
+
+An early .NET networking project, no longer actively maintained.
